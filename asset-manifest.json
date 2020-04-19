@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/golascroll/static/css/main.2b344756.chunk.css",
+    "main.js": "/golascroll/static/js/main.edaab928.chunk.js",
+    "main.js.map": "/golascroll/static/js/main.edaab928.chunk.js.map",
+    "runtime-main.js": "/golascroll/static/js/runtime-main.c2d48914.js",
+    "runtime-main.js.map": "/golascroll/static/js/runtime-main.c2d48914.js.map",
+    "static/js/2.573722a6.chunk.js": "/golascroll/static/js/2.573722a6.chunk.js",
+    "static/js/2.573722a6.chunk.js.map": "/golascroll/static/js/2.573722a6.chunk.js.map",
+    "index.html": "/golascroll/index.html",
+    "precache-manifest.d9d1d8651b10a248c4a83fb3421fed82.js": "/golascroll/precache-manifest.d9d1d8651b10a248c4a83fb3421fed82.js",
+    "service-worker.js": "/golascroll/service-worker.js",
+    "static/css/main.2b344756.chunk.css.map": "/golascroll/static/css/main.2b344756.chunk.css.map",
+    "static/js/2.573722a6.chunk.js.LICENSE.txt": "/golascroll/static/js/2.573722a6.chunk.js.LICENSE.txt",
+    "static/media/Hearts.jpg": "/golascroll/static/media/Hearts.a2120ce1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2d48914.js",
+    "static/js/2.573722a6.chunk.js",
+    "static/css/main.2b344756.chunk.css",
+    "static/js/main.edaab928.chunk.js"
+  ]
+}
