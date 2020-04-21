@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/golascroll/static/css/main.862d4bf5.chunk.css",
-    "main.js": "/golascroll/static/js/main.9ddcb550.chunk.js",
-    "main.js.map": "/golascroll/static/js/main.9ddcb550.chunk.js.map",
+    "main.js": "/golascroll/static/js/main.e8c65d53.chunk.js",
+    "main.js.map": "/golascroll/static/js/main.e8c65d53.chunk.js.map",
     "runtime-main.js": "/golascroll/static/js/runtime-main.c2d48914.js",
     "runtime-main.js.map": "/golascroll/static/js/runtime-main.c2d48914.js.map",
     "static/js/2.573722a6.chunk.js": "/golascroll/static/js/2.573722a6.chunk.js",
     "static/js/2.573722a6.chunk.js.map": "/golascroll/static/js/2.573722a6.chunk.js.map",
     "index.html": "/golascroll/index.html",
-    "precache-manifest.7bbb102f179b6deebee857643999dc4b.js": "/golascroll/precache-manifest.7bbb102f179b6deebee857643999dc4b.js",
+    "precache-manifest.cb475948b4305560750d94d719dbe4f8.js": "/golascroll/precache-manifest.cb475948b4305560750d94d719dbe4f8.js",
     "service-worker.js": "/golascroll/service-worker.js",
     "static/css/main.862d4bf5.chunk.css.map": "/golascroll/static/css/main.862d4bf5.chunk.css.map",
     "static/js/2.573722a6.chunk.js.LICENSE.txt": "/golascroll/static/js/2.573722a6.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c2d48914.js",
     "static/js/2.573722a6.chunk.js",
     "static/css/main.862d4bf5.chunk.css",
-    "static/js/main.9ddcb550.chunk.js"
+    "static/js/main.e8c65d53.chunk.js"
   ]
 }
