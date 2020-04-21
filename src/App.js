@@ -349,12 +349,12 @@ class App extends Component {
     let element = e.target;
 
     let scrollTop = element.scrollTop;
-    // console.log(this.state.currentPos, "current position");
+    console.log(this.state.currentPos, "current position");
 
-    // console.log(
-    //   scrollTop - this.state.currentPos,
-    //   "scrollTop minus currentpos"
-    // );
+    console.log(
+      scrollTop - this.state.currentPos,
+      "scrollTop minus currentpos"
+    );
 
     if (scrollTop - this.state.currentPos >= 613) {
       this.setState((currentState) => {
