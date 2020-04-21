@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f45c93a87a82331b740d2e73e72b4b58",
+    "revision": "725b49f345a29ca4d664341352f6dfbe",
     "url": "/golascroll/index.html"
   },
   {
-    "revision": "ed63537a1ed61ad3bfea",
+    "revision": "9993935e5a98ddd86a87",
     "url": "/golascroll/static/css/main.862d4bf5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/golascroll/static/js/2.573722a6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed63537a1ed61ad3bfea",
-    "url": "/golascroll/static/js/main.ad51a403.chunk.js"
+    "revision": "9993935e5a98ddd86a87",
+    "url": "/golascroll/static/js/main.9f8fd3a3.chunk.js"
   },
   {
     "revision": "5b27a8aea84b879dcddf",
