@@ -347,16 +347,16 @@ class App extends Component {
   }
   handleScroll = (e) => {
     let element = e.target;
-    let scrollTop = element.scrollTop;
-    console.log(this.state.currentPos, "current position");
 
-    console.log(
-      scrollTop - this.state.currentPos,
-      "scrollTop minus currentpos"
-    );
+    let scrollTop = element.scrollTop;
+    // console.log(this.state.currentPos, "current position");
+
+    // console.log(
+    //   scrollTop - this.state.currentPos,
+    //   "scrollTop minus currentpos"
+    // );
 
     if (scrollTop - this.state.currentPos >= 613) {
-      console.log("CHANGE TRIGGERED");
       this.setState((currentState) => {
         return {
           currentPos: (currentState.currentPos += 613),
@@ -366,7 +366,6 @@ class App extends Component {
     }
 
     if (scrollTop - this.state.currentPos <= 0 && this.state.index !== 0) {
-      console.log("CHANGE TRIGGERED");
       this.setState((currentState) => {
         return {
           currentPos: (currentState.currentPos -= 613),
