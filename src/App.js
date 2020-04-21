@@ -355,11 +355,11 @@ class App extends Component {
       "scrollTop minus currentpos"
     );
 
-    if (scrollTop - this.state.currentPos >= 700) {
+    if (scrollTop - this.state.currentPos >= 613) {
       console.log("CHANGE TRIGGERED");
       this.setState((currentState) => {
         return {
-          currentPos: (currentState.currentPos += 620),
+          currentPos: (currentState.currentPos += 613),
           index: (currentState.index += 1),
         };
       });
@@ -369,7 +369,7 @@ class App extends Component {
       console.log("CHANGE TRIGGERED");
       this.setState((currentState) => {
         return {
-          currentPos: (currentState.currentPos -= 620),
+          currentPos: (currentState.currentPos -= 613),
           index: (currentState.index -= 1),
         };
       });
