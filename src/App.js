@@ -359,7 +359,7 @@ class App extends Component {
       console.log("CHANGE TRIGGERED");
       this.setState((currentState) => {
         return {
-          currentPos: (currentState.currentPos += 700),
+          currentPos: (currentState.currentPos += 620),
           index: (currentState.index += 1),
         };
       });
@@ -369,7 +369,7 @@ class App extends Component {
       console.log("CHANGE TRIGGERED");
       this.setState((currentState) => {
         return {
-          currentPos: (currentState.currentPos -= 700),
+          currentPos: (currentState.currentPos -= 620),
           index: (currentState.index -= 1),
         };
       });
