@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/golascroll/precache-manifest.29a22c2e0361ec10f5c51583524e5da4.js"
+  "/golascroll/precache-manifest.982eceda061dd1b00fe9769c491ecad6.js"
 );
 
 self.addEventListener('message', (event) => {
