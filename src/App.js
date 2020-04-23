@@ -91,7 +91,7 @@ class App extends Component {
 
   componentDidMount() {
     api.fetchEvent(this.state.currentEventsLength).then((events) => {
-      this.setState({ events, currentEventsLength: 10 });
+      this.setState({ events, currentEventsLength: 5 });
     });
   }
   handleScroll = (e) => {
@@ -134,7 +134,7 @@ class App extends Component {
           newEvents.forEach((event) => newEventsArray.push(event));
           return {
             events: newEventsArray,
-            currentEventsLength: (currentState.currentEventsLength += 10),
+            currentEventsLength: (currentState.currentEventsLength += 5),
           };
         });
       });
