@@ -39,7 +39,7 @@ ul {
   padding: 0;
 }
 .listItem {
-  height: 90vh;
+  max-height: 613px;
   display: flex;
   flex-direction: column;
   align-items: center;
